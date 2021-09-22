@@ -1,0 +1,89 @@
+
+/*why choose us*/ 
+
+#why_choose h1{
+text-align: center;
+
+
+margin: 0 auto; width:400px;
+
+font-size: 50px;
+
+color: red; border-bottom: 3px solid red;}
+
+
+
+.div_section1{
+
+width: 20%;
+
+height: 300px; margin: 31.3px;
+
+
+border: 2px solid gray;
+float: left}
+
+.icon{
+
+width: 120px;
+
+height: 120px;
+
+border: 1px solid gray;
+
+margin: 10px auto;
+line-height: 120px;
+text-align: center;
+font-size: 50px;
+
+background-color: darkred;
+color: white;
+
+border-radius: 100px;
+}
+
+.icon:hover{
+font-size: 40px;
+}
+/*section2*/
+.section2{
+display: inline-block;
+width: 33% ;height: 105%;margin-bottom: 55%;
+
+}
+
+
+
+
+
+
+
+.div_section2{
+width: 31.45%;
+
+height: 1000px; margin:33.3px;
+
+
+border: 5px solid red;
+float: clear}
+
+
+
+.div_section2 img{
+width: 100%
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
